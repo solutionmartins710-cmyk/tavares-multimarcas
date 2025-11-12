@@ -1,0 +1,1 @@
+---\ntitle: "Camiseta Peruana"\nprice: 129.9\ncategory: "CAMISETAS"\ndescription: "Camiseta peruana tradicional"\nimages:\n  - "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&q=80"\n---\n

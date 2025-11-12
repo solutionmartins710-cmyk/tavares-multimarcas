@@ -1,0 +1,1 @@
+---\ntitle: "Camiseta Premium"\nprice: 149.9\ncategory: "CAMISETAS"\ndescription: "Tecido premium"\nimages:\n  - "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800&q=80"\n---\n

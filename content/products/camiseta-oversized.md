@@ -1,0 +1,1 @@
+---\ntitle: "Camiseta Oversized"\nprice: 139.9\ncategory: "CAMISETAS"\ndescription: "Modelagem oversized"\nimages:\n  - "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&q=80"\n---\n
